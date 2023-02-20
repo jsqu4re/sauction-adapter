@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 14,
+  "port": 8888,
+  "root_dir": "/home/cq",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://f82c480251fc:8888/",
+  "version": "1.17.0"
+}
